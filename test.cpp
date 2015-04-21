@@ -3,7 +3,7 @@
 //  test
 //
 //  Created by 葛京 on 15/4/19.
-//  Copyright (c) 2015年 葛京. All rights reserved.
+//  Copyright (c) 2015年 TianCtion. All rights reserved.
 //
 
 #include <iostream>
